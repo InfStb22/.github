@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hii+Welcome;Informatika+STB+22;Informatics++Engginerriang+22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hii+Welcome;Informatika+STB+2022;Informatics++Engginerring+2022)](https://git.io/typing-svg)
